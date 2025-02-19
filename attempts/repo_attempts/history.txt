@@ -1,0 +1,28 @@
+  926  git clone git@github.com:grosspapatrn/attempts.git
+  927  lal
+  928  cd attempts
+  929  ls -al
+  930  gstat
+  931  git checkout -b feature
+  932  git branch
+  933  vim .gitignore 
+  934  cat .gitignore 
+  935  vim README.md 
+  936  date >> README.md 
+  937  cat README.md 
+  938  gstat
+  939  git add .gitignore 
+  940  gstat
+  941  git add README.md 
+  942  gstat
+  943  git commit -m "added two files"
+  944  git push origin feature
+  945  git commit --amend
+  946  git push origin feature
+  947  sudo git commit --amend -m "added two files _ ammend"
+  948  git push
+  949  git push origin feature
+  950  git checkout main
+  951  git merge feature
+  952  git push origin main
+  953  history | tail -50 > history.txt
