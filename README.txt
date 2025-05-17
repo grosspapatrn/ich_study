@@ -1,6 +1,6 @@
 Monorepo for ICH study :)
 
-There is 4 folders:
+There is 5 folders:
 1. attempts
     - all repo-attempts :D
 2. python
@@ -9,3 +9,5 @@ There is 4 folders:
     - all linux lessons and homeworks
 4. database
     - all DataBase / SQL lessons and homeworks
+5. advanced python
+    - all homeworks for "advanced" python lessons
