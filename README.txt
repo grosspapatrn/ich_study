@@ -11,3 +11,5 @@ There is 5 folders:
     - all DataBase / SQL lessons and homeworks
 5. advanced python
     - all homeworks for "advanced" python lessons
+6. auto QA python
+    - all homeworks for auto QA wrote on python
